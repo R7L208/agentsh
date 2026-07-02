@@ -1,0 +1,10 @@
+# build artifacts
+*.o
+*.dSYM/
+/agentsh
+/broker
+
+# runtime state
+/audit/
+/queryResults/
+serverFIFO
